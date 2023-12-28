@@ -11,4 +11,5 @@ int main() {
     cout << "Введите b"<< endl;
     cin >> b;
     
+    cout << "a+b= "<< a+b << endl;
 }
